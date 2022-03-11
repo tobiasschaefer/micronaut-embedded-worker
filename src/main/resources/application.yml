@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: micronautEmbeddedWorker
+camunda.external-client.base-url: http://localhost:8080/engine-rest
